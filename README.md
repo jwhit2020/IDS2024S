@@ -6,6 +6,6 @@
 Email: jkw4002@mavs.uta.edu  
 Department: Department of Sociology   
 University: The University of Texas Arlington  
-Level: Senior (4th Year)  
+Level: Senior    
 Position Title: Student    
 Course Webpage: www.cdslab.org
