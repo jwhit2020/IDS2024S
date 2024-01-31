@@ -1,1 +1,1 @@
-This folder contains all my exams. 
+This folder contains all my exam submissions. 
