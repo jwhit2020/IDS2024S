@@ -1,3 +1,3 @@
 1. [Here is the README file I created.](../../README.md)
 2. Local, Centralized, and Distributed.
-3. 
+3. Distributed VCS is the best and it's the best because each client has a copy of the central database at their local storage device. So every clone of the central repository with each client is a full backup of the project’s data and history. If the central server orrepository fails for any reason, the local repository of the team member that has the most recent clone of the project database can be used to restore the central repository so that is why is the best out of all three of the Version Control Systems. 
