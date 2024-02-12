@@ -18,7 +18,7 @@
 19. To make a text italic in Markdown you need to type *This text will be italic*.
 20. The git command to intialize an empty git project is git ls-files --other --ignored -- exclude-standard.
 21. . and .. means it's creating path names to your readme.md file or git project. 
-22.
+22.  
 7. Testdir is a repository and the command ls -a creates ./ ../
 9.This is a redme.file for the test git project of quiz1.
 README.md file
