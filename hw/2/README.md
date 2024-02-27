@@ -37,8 +37,7 @@ sh - 1970s
 1. 64 grains.  
 2. 64/2 (1+64)= 32 times 65= 2080 grains.  
 3. 2080/7000=0.2971 pounds of rice.  
-26.  
-1. 128 grains.  
+26.  1. 128 grains.  
 2. 1 x 2 (8 -1)=1x 2^7= 128 grains.   
 3. 128/7000=0.0183 pounds.  
 4. 1317.62457 years.  
