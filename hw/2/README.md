@@ -1,5 +1,4 @@
-1.  
-Algol 58 - 1950s  
+1. Algol 58 - 1950s  
 FORTRAN - 1950s  
 Lisp - 1950s  
 BASIC - 1960s  
