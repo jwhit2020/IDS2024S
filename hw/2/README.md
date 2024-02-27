@@ -33,13 +33,7 @@ sh - 1970s
 22. Yes it's possible for a powerful computer with more CPU cycles to be slower than a computer with less CPU cycles. As a computer with more CPU cycles but fewer cores may still be slower than a computer with fewer CPU cycles but more cores.  
 23. The bottleneck of speed in mondern computers is caused by memory access. The memory bottleneck is cause dby slower memory access speeds is often the primary limitaion in mondern computers.  
 24. Dennard Scaling is the constant power denisty of transistors as they are scaled down in size. MOSFET scaling is the process of reducing the size of transistors achieve Dennard Scaling and increase transistory density. Moore's law is the observation that the number of transistors on a chip doubles approximately every two years, leading to increased computing power.
-25.  
-1. 64 grains.  
-2. 64/2 (1+64)= 32 times 65= 2080 grains.  
-3. 2080/7000=0.2971 pounds of rice.  
-26.  1. 128 grains.  
-2. 1 x 2 (8 -1)=1x 2^7= 128 grains.   
-3. 128/7000=0.0183 pounds.  
-4. 1317.62457 years.  
-27. Syntax, Semantics, and Computability.
+25. 1. 64 grains.  2. 64/2 (1+64)= 32 times 65= 2080 grains.  3. 2080/7000=0.2971 pounds of rice.  
+26. 1. 128 grains. 2. 1 x 2 (8 -1)=1x 2^7= 128 grains. 3. 128/7000=0.0183 pounds. 4. 1317.62457 years.  
+27. Syntax, Semantics, and Computability.  
 28. We need to anaylze the shape and pattern of the data.  
