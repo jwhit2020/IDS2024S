@@ -10,7 +10,7 @@ represent data may be obvious; 0 and 1 are easy to represent electronically. For
 electric current could be used to represent 0 and 1. Alternatively, the presence or lack of a charge or magnetism in a  
 particular location in the memory could be used to represent 0 and 1. Therefore, anything represented as a binary number  
 can also be stored in computer memory and processed.  
-7. 
+7. ~50.  
 8. 1940s.
 9. 1970s.
 10. This means that they could only perform the algorithms for which they had been physically wired and built.
@@ -20,16 +20,16 @@ can also be stored in computer memory and processed.
 14. mathematical programming.  
 15. ENIAC.
 16. Fortran.  
-17. 
+17. Python.  
 18. input, mathematical/logical operations, conditional execution, repetition / looping, output.
 19. A computer built in the 1950s
 20. Fortran, B, Cobol, C ++, Java, Python.
 21. (a) binary 0 and 1. (B). No it doesn't. 
 22. (a) Fortran. (b). 1950s.  
 23. (a) Assembly. (b). Matlab 
-24.  C- 1970s, C++-1980s, MATLAB-, Python- 1990s
+24.  C- 1970s, C++-1980s, MATLAB-1970s, Python- 1990s
 25. B. 
 26. C with classes
-27. Python-ABCA, MATLAB-
-28. S=3 
-29. 
+27. Python-ABCA, MATLAB-Snobol. 
+28. A general method for solving a class of problems.  
+29. S=1683. Every number increases by 3 in the order so you should add 3 plus every number beggining from 3 to 6 to 9 etc. s=3.  
