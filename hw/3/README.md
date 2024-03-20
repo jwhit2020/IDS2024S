@@ -1,2 +1,3 @@
 1. Three pillars of science are observation, experimentation, and theory.
-2. Three different applications are bioinformatics, financial analysis, and climate modeling. 
+2. Three different applications are bioinformatics which involves the use of computational methods to analyze biological data, such as DNA sequences, protein structures, and gene expression data. Financial analysis is to analyze and predict market trends, to manage risk, and to develop trading strategies. Climate modeling uses mathematical models and simulations to study the Earth’s climate system and to predict future climate change. These models incorporate data from various sources, such as satellite observations, weather stations, and ocean buoys, and use complex algorithms to simulate the interactions between the atmosphere, oceans, and land surface.
+3. 
