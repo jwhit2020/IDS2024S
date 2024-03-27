@@ -4,10 +4,10 @@
 3. Computation data brings a workflow by bridging data, a subsitute for experiment and observational data,
    and is a substitute for theory where it's not available.  
 4. Deductive and plausibile reasoning. Example for deductive it is raining right now, so the ground is wet.
-   Example for pluasible reasoning is it will start to get hot by 12 PM at the latest, the temperature will become hotter before 
+   Example for pluasible reasoning is it will start to get rain by 12 PM at the latest, the sky will become cloudy before 
     12 PM.  
 5. Logical implication is not the same as physical causation. Example is If A is true, then B becomes more plausible,
-   B is true, therefore A becomes more plausible. The temperature at 12 PM isn't the physical cause of the heat at 11:45 AM.
+   B is true, therefore A becomes more plausible. The rain at 12 PM isn't the physical cause of the clouds at 11:45 AM.
 6. Named after George Boole.
 7. Venn Diagram Picture.    
 8. Venn Diagram Picture.  
