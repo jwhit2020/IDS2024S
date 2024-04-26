@@ -11,4 +11,5 @@
 Initially, we plot the dataset using the original axes, with "Age" on the x-axis and "Income" on the y-axis. However, when we plot the data, we notice that the majority of data points are clustered towards one end of the plot, making it difficult to interpret the relationship between the variables. To address this issue and obtain a better visualization, let's transform the axes. Specifically, we apply a logarithmic transformation to the "Income" variable. By taking the logarithm of the income values, we compress the range of income values, reducing the difference between high-income and low-income data points. This helps to spread out the data points along the y-axis, making it easier to observe the relationship between age and income. After  
 transforming the axes, we re-plot the dataset with the logarithmic income values on the y-axis. Now, the data points are more evenly distributed across the plot, allowing us to identify any patterns or trends between age and income more clearly.  
 By transforming the axes of the plot, specifically applying a logarithmic transformation to the income variable, we were able to achieve a better visualization of the relationship between age and income in the dataset.  
-
+9. The bottom left grid with the axes labeled e1 and e2.
+10. 
