@@ -1,4 +1,4 @@
-1. Aesthetics in data visualization refer to the visual properties that make a visualization appealing and effective in
+(1) Aesthetics in data visualization refer to the visual properties that make a visualization appealing and effective in
    conveying information. Some common aesthetics that can appear in a data visualization. A few aesthetics that could be appear in 
    data visualtion is position, shape, size, and color.    
 2. Those that can represent continuous data and those that cannot.
