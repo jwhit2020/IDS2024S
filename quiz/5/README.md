@@ -14,4 +14,9 @@
 14. Which city’s temperature is the least varying throughout the year? Chicago.  
 Which city’s temperature is the wildest varying throughout the year? Death Valley.  
 Which city the hottest in the month of January? Chicago.  
-Which city the coolest in the month of July? San Diego.  
+Which city the coolest in the month of July? San Diego.
+15. a) qualitative color scale. b) Color to represent data values. c) Diverging color scale. d) Color as a tool to highlight.  
+16. Okabe Ito Acent.  
+17. The manipulating y-axis.  
+18. Excel File upload. 
+19. The temperature of Earth will increase in the following decades. The earth will be hotter in 2050 at 2 degrees celsius.   
