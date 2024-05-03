@@ -4,7 +4,7 @@
 4. a) qualitative color scale. b) Color to represent data values. c) Diverging color scale. d) Color as a tool to highlight.
 5. Three pillars of science are experiment, theory, and computational and data sciences.
 6. Logical imlication isn't the same as phsycial causation. Just cause we say they in order to rain it has to be cloudy but we have physically seen that it can rain without being cloudy as logic can be deemed false by a physical causation.
-7. 1. This seems visually unfit becaus it's getting in the way of the years 1900-2000 to where I can see the temperature for those years. 2. Temperature is is in the decreasing tempratures. 3. Positive correlation. 4. Yes, since the data is categorized by time which is the year.  
+7. (1) This seems visually unfit becaus it's getting in the way of the years 1900-2000 to where I can see the temperature for those years. (2) Temperature is is in the decreasing tempratures. (3) Positive correlation. (4) Yes, since the data is categorized by time which is the year. (5) Average temperature is 0.92 or 92 degrees.  
 8. Bayesian probability theory.  
 9. Neyman-Pearson-Wald probability theory.  
 10. Bayesian probability theory as data allows the incorporation of expert knowledge in scarce data and degree of belief.  
